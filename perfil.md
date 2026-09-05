@@ -1,1 +1,2 @@
+Mi nombre es Noelia Piñero y soy analista programadora, mi proyecto consiste en una aplicacion en el trazado de numeros y letras para niños de preescolar.
 El objetivo del proyecto es ayudar a los niños a que puedan tener conocimientos tempranos sobre las letras y numeros de una forma interactiva.
